@@ -1,0 +1,15 @@
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.deps.json
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.runtimeconfig.json
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.dll
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.pdb
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.AssemblyReference.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfoInputs.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfo.cs
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.dll
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/refint/Assignment1.dll
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.pdb
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.genruntimeconfig.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Assignment1/Assignment1/obj/Debug/net6.0/ref/Assignment1.dll
