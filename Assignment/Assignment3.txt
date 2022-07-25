@@ -1,0 +1,25 @@
+1. Create an Employee class(Empid,Name,Address,City,Department,Salary) and define properties to read and write the values. Salary should not be editable outside employee class but it should be readable outside.
+ 
+- Then extend this class and create two derived classes called as ContractEmployee and PermanentEmployee
+
+- The contract employee will have perks as an additional property
+- The permanent employee will have no.ofleaves and Providentfund property additionally
+
+Task 1: Override the GetSalary Method in these 2 classes
+        For contract employee the new salary will be Salary + Perks
+        For permanent employee the new salary will be Salary-Providentfund
+
+Task 2: Create a Console application to use these classes
+        Develop a menu driven application to select the type of employee
+        Based on the user selection create the object and accept the details from the user, and display the salary of the employee
+
+Task : Incorporate relevant methods in the classes
+
+
+2. Create an Abstract class Student with  Name, StudentId, Grade as members and also an abstract method Boolean Ispassed(grade) which takes grade as an input and checks whether student passed the course or not.  
+
+Create 2 Sub classes Undergraduate and Graduate that inherits all members of the student and overrides Ispassed() method 
+
+For the UnderGrad class, if the grade is above 70.0, then isPassed returns true, otherwise it returns false. For the Grad class, if the grade is above 80.0, then isPassed returns true, otherwise returns false.
+
+Write appropriate functionalities

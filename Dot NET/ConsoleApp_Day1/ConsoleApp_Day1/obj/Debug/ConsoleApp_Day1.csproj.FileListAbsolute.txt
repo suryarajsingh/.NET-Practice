@@ -1,0 +1,7 @@
+C:\FIS\CSharp\ConsoleApp_Day1\ConsoleApp_Day1\bin\Debug\ConsoleApp_Day1.exe.config
+C:\FIS\CSharp\ConsoleApp_Day1\ConsoleApp_Day1\bin\Debug\ConsoleApp_Day1.exe
+C:\FIS\CSharp\ConsoleApp_Day1\ConsoleApp_Day1\bin\Debug\ConsoleApp_Day1.pdb
+C:\FIS\CSharp\ConsoleApp_Day1\ConsoleApp_Day1\obj\Debug\ConsoleApp_Day1.csproj.AssemblyReference.cache
+C:\FIS\CSharp\ConsoleApp_Day1\ConsoleApp_Day1\obj\Debug\ConsoleApp_Day1.csproj.CoreCompileInputs.cache
+C:\FIS\CSharp\ConsoleApp_Day1\ConsoleApp_Day1\obj\Debug\ConsoleApp_Day1.exe
+C:\FIS\CSharp\ConsoleApp_Day1\ConsoleApp_Day1\obj\Debug\ConsoleApp_Day1.pdb

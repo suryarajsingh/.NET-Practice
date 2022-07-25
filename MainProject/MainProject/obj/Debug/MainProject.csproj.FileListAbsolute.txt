@@ -1,0 +1,6 @@
+C:\FIS\CSharp\MainProject\MainProject\bin\Debug\MainProject.dll
+C:\FIS\CSharp\MainProject\MainProject\bin\Debug\MainProject.pdb
+C:\FIS\CSharp\MainProject\MainProject\obj\Debug\MainProject.csproj.AssemblyReference.cache
+C:\FIS\CSharp\MainProject\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+C:\FIS\CSharp\MainProject\MainProject\obj\Debug\MainProject.dll
+C:\FIS\CSharp\MainProject\MainProject\obj\Debug\MainProject.pdb

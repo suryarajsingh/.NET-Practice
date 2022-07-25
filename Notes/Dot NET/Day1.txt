@@ -1,0 +1,76 @@
+Dot Net Framework : sw component that runs on the windows os. A set of tools and libraries that enable the developers to build softwares easier and faster
+
+Dot net Core : Open source sw that is cross platform. CLI
+
+SDLC models
+
+Water fall model : 7 phases
+
+Agile methodology : RAD
+
+JVM : Java Virtual Machine
+PVM : Python Virtual Machine
+
+4 Major Components of .Net Framework
+1. CLR : Common Lang. Runtime Source=Compilation=IL-JIT=natuve code
+
+Write Once Run Anywhere (WORA)
+2. CLS : Common Lang. Specification : Language Independence
+3. (Base class Library- BCL - classes and objects that are required for basic input/output operarations)
+ Framework Class Library -FCL 
+   - Web applications
+   - Windows applications
+   - Drawing
+   - XML
+   - Data
+   - Mobile applications
+4. .Net Tools
+-----------------------------------------------------------------------------------------
+
+C# : Is a modern, general-purpose, object oriented programmimng lang developed by Microsoft
+     Was developed by Anders Hejlsberg and his team during the development of .net Framework
+     Is designed for Common Lang Interface, which consists of executable code and runtime environment that allows use of various high level languages on different platforms and architectures.
+
+
+Namespace : It is a logical way to organise the programs
+            Is a collection of classes,Interfaces,Events,Delegates,Structures,Enums and other namespaces
+            Is to avoid name clashes
+
+Assembly : Every .net application on compilation gives assembly
+           Assemblies are fundamental unit of deployment, that consists of PE Header, CLR Header, Manifest and IL
+           Assemblies can be either of type .exe, .dll
+           Assemblies can be private or shared
+           
+
+Datatypes: type of data
+  Characters, numbers, strings, real numbers, booleans 
+
+
+ILDASM - Dis assembler
+ILASM - Assembler
+
+1. Primitive/System defined/Fundamental 
+2. User Defined 
+
+All Data types are either 
+Value Types - All primitive datatypes (the variables store the data directly)
+Reference types - Arrays/Classes/Interface/Delegates/Events
+
+
+Instance Method - One per instance of the class. Needs object for invocation
+Static Method : One per class, Does not need object for invoking
+
+
+Type Casting: Converting one data value type to another
+     Implicit: Lower type to higher type - no loss of data
+     Explicit: higher to lower (loss of data)
+
+Boxing and Unboxing: Converting value types to reference types and vice versa
+
+string and object are predefined reference types
+
+struct and enum are predefined value types
+
+
+
+

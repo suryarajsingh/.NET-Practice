@@ -1,0 +1,7 @@
+C:\FIS\CSharp\ConsoleApp_Day2\ConsoleApp_Day2\bin\Debug\ConsoleApp_Day2.exe.config
+C:\FIS\CSharp\ConsoleApp_Day2\ConsoleApp_Day2\bin\Debug\ConsoleApp_Day2.exe
+C:\FIS\CSharp\ConsoleApp_Day2\ConsoleApp_Day2\bin\Debug\ConsoleApp_Day2.pdb
+C:\FIS\CSharp\ConsoleApp_Day2\ConsoleApp_Day2\obj\Debug\ConsoleApp_Day2.csproj.AssemblyReference.cache
+C:\FIS\CSharp\ConsoleApp_Day2\ConsoleApp_Day2\obj\Debug\ConsoleApp_Day2.csproj.CoreCompileInputs.cache
+C:\FIS\CSharp\ConsoleApp_Day2\ConsoleApp_Day2\obj\Debug\ConsoleApp_Day2.exe
+C:\FIS\CSharp\ConsoleApp_Day2\ConsoleApp_Day2\obj\Debug\ConsoleApp_Day2.pdb

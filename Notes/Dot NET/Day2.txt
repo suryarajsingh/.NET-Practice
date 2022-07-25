@@ -1,0 +1,104 @@
+A - 65
+ASCII - Every character occuoies 1 Byte - 8 bits (0/1)
+Unicode - Every character occupies 2 bytes (16 bits)
+
+Operators : Unary, Binary, Ternary
+
+static void Main()
+{
+   int num=10;
+  bool b;
+if(num ==10)
+{
+ b=true;}
+else
+b=false;
+cw("is Number==10 ?{0}", b);
+}
+
+bool b = num == 10 ? true:false;
+
+Methods and Parameters:
+1. Call by Value
+2. Call by Reference
+3. Output Parameters
+4. Params (Parameter Array)
+
+
+Loops : 1. initialization, 2. evaluation, 3. change of value
+ 1. do while 
+ 2. while do
+ 3. for
+ 4. foreach
+
+Implicitly typed Variables
+
+var v=10;
+
+Types Operators :
+
+Arithmetic  - +,-,*,%,/
+Relational - <,<=,>,>=,=,!=,<>
+Logical - not, and, or
+Assignment - =
+Misc. sizeof(), typeof() etc..
+??
+
+IDE - Integrated Development Environment
+
+Control/Iteration Statements
+
+ If/else
+ switch
+
+Jump Statements:
+
+break
+continue
+goto
+return
+throw
+
+
+Assignment 1:
+
+create a menu based console application to perform arithmetic calculations based on user choice, using switch case.
+
+
+
+Arrays : Is a collection of values of the same data type. It is continous meemory allotment, accessed using the index/subscript (starts with 0)
+
+3 types of arrays: 1. Single Dimension, 2. Two/Multi Dimension, 3. Jagged
+
+datatype [] <name of the array>= new datatype[size]
+
+int[]arr=new int[5];
+int[]arr=new int[]={10,20,30,40};
+
+is available in System namespace
+  - sort()
+  - reverse()
+  - copy()
+  - length, rank
+
+
+Strings: a collection of characters. Is a prer defined reference type. It is allotted in heap memory. Strings are immutable.
+
+string s="hello";
+cw(s);
+s="hello world";
+string str="hello"; ToCharArray() 'h','e','l','l','o'
+
+string s2=s;
+string mystring = new string("hello");
+
+
+
+
+
+
+
+
+
+
+
