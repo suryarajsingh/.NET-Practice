@@ -1,0 +1,15 @@
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/bin/Debug/net6.0/Assignment3
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/bin/Debug/net6.0/Assignment3.deps.json
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/bin/Debug/net6.0/Assignment3.runtimeconfig.json
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/bin/Debug/net6.0/Assignment3.dll
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/bin/Debug/net6.0/Assignment3.pdb
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.csproj.AssemblyReference.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.AssemblyInfoInputs.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.AssemblyInfo.cs
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.dll
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/refint/Assignment3.dll
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.pdb
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/Assignment3.genruntimeconfig.cache
+/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 3/Assignment3/Assignment3/obj/Debug/net6.0/ref/Assignment3.dll
