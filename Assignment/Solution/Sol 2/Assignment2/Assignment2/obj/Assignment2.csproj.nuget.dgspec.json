@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 1/Assignment1/Assignment1.csproj": {}
+    "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 2/Assignment2/Assignment2/Assignment2.csproj": {}
   },
   "projects": {
-    "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 1/Assignment1/Assignment1.csproj": {
+    "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 2/Assignment2/Assignment2/Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 1/Assignment1/Assignment1.csproj",
-        "projectName": "Assignment1",
-        "projectPath": "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 1/Assignment1/Assignment1.csproj",
+        "projectUniqueName": "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 2/Assignment2/Assignment2/Assignment2.csproj",
+        "projectName": "Assignment2",
+        "projectPath": "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 2/Assignment2/Assignment2/Assignment2.csproj",
         "packagesPath": "/Users/suryarajsingh/.nuget/packages/",
-        "outputPath": "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 1/Assignment1/obj/",
+        "outputPath": "/Users/suryarajsingh/Desktop/Dot-NET-Practice/Assignment/Solution/Sol 2/Assignment2/Assignment2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/suryarajsingh/.nuget/NuGet/NuGet.Config"
