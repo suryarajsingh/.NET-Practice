@@ -1,7 +1,0 @@
-C:\FIS\CSharp\ConsoleApp_Day5\ConsoleApp_Day5\bin\Debug\ConsoleApp_Day5.exe.config
-C:\FIS\CSharp\ConsoleApp_Day5\ConsoleApp_Day5\bin\Debug\ConsoleApp_Day5.exe
-C:\FIS\CSharp\ConsoleApp_Day5\ConsoleApp_Day5\bin\Debug\ConsoleApp_Day5.pdb
-C:\FIS\CSharp\ConsoleApp_Day5\ConsoleApp_Day5\obj\Debug\ConsoleApp_Day5.csproj.AssemblyReference.cache
-C:\FIS\CSharp\ConsoleApp_Day5\ConsoleApp_Day5\obj\Debug\ConsoleApp_Day5.csproj.CoreCompileInputs.cache
-C:\FIS\CSharp\ConsoleApp_Day5\ConsoleApp_Day5\obj\Debug\ConsoleApp_Day5.exe
-C:\FIS\CSharp\ConsoleApp_Day5\ConsoleApp_Day5\obj\Debug\ConsoleApp_Day5.pdb
