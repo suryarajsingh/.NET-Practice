@@ -11,7 +11,8 @@ namespace Assignment2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            RangeValidator2.MaximumValue = DateTime.Today.ToShortDateString();
+            RangeValidator2.MinimumValue = DateTime.Today.ToShortDateString();
         }
 
         protected void BtnSave_Click(object sender, EventArgs e)
